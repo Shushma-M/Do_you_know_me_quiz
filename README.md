@@ -1,2 +1,2 @@
 # Do_you_know_me_quiz
- A game that contains questions abt me
+ Hello, this is a Quiz to test How much you know about me
